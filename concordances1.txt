@@ -1,0 +1,1199 @@
+هنا ; Here
+1. أنا هنا ; I am here.
+2. هناك مطعم جيد ; There is a good restaurant here.
+3. هل يمكنك القدوم هنا غدًا؟ ; Can you come here tomorrow?
+
+جيد ; Good
+1. العمل الجيد يتطلب الوقت والجهد ; Good work requires time and effort.
+2. هذا كتاب جيد جداً ; This is a very good book.
+3. يجب أن تكون لديك أصدقاء جيدين ; You should have good friends.
+
+هدفع ; I will pay
+1. هدفع الفاتورة ; I will pay the bill.
+2. هل يمكنني هدفع ببطاقة الائتمان؟ ; Can I pay with a credit card?
+3. سأهدفع نقدًا ; I will pay in cash.
+
+اش ; What
+1. اش أخبارك؟ ; What's your news? (How are you?)
+2. اش هذا؟ ; What is this?
+3. اش هو اسمك؟ ; What is your name?
+
+كاش ; Cash
+1. أنا أدفع بالكاش ; I pay in cash.
+2. هل تقبلون الدفع بالكاش؟ ; Do you accept cash payments?
+3. يجب أن تكون عندي نقود كاش ; I need to have cash on hand.
+
+أنا ; I
+1. أنا أحب السفر ; I love to travel.
+2. أنا طالب في الجامعة ; I am a student at the university.
+3. أنا هنا لمساعدتك ; I am here to help you.
+
+عايز ; Want
+1. أنا عايز كوب قهوة ; I want a cup of coffee.
+2. هل عايز تنضف الغرفة؟ ; Do you want to clean the room?
+3. عايز تساعدني في هذا المشروع؟ ; Do you want to help me with this project?
+
+أغن ; Sing
+1. أحب أن أغني في الحفلات ; I love to sing at parties.
+2. هل تستطيع أن تغني لنا أغنية؟ ; Can you sing us a song?
+3. يُعتبر أحمد من أفضل مغنيي البوب ; Ahmed is considered one of the best pop singers.
+
+الأغنية ; Song
+1. هذه الأغنية جميلة جداً ; This song is very beautiful.
+2. لديهم مجموعة رائعة من الأغاني ; They have a wonderful collection of songs.
+3. أحب أن أستمع إلى الأغاني القديمة ; I like to listen to old songs.
+
+قدر ; Can
+1. هل تقدر أن تساعدني؟ ; Can you help me?
+2. لا أعتقد أنه يمكنني الحضور ; I don't think I can attend.
+3. يجب أن تثق بنفسك وتعرف ما تقدر على فعله ; You should believe in yourself and know what you can do.
+
+تقدر ; Able
+1. أنت تقدر على القيام بذلك ; You are able to do it.
+2. هل تقدر أن تفعل ذلك لي؟ ; Can you do that for me?
+3. يجب أن تكون قادرًا على التحدث بالإنجليزية ; You should be able to speak English.
+
+شغل ; Work
+1. عندي الكثير من الشغل اليوم ; I have a lot of work today.
+2. هل تحب شغلك؟ ; Do you like your job?
+3. يجب أن تضع جهدًا في الشغل ; You should put effort into your work.
+
+تشغل ; Operate
+1. كيف يمكن تشغيل هذا الجهاز؟ ; How can this device be operated?
+2. يجب أن تتعلم كيفية تشغيل السيارة ; You should learn how to operate the car.
+3. هل يمكنك تشغيل الفيديو؟ ; Can you play the video?
+
+مكيف ; Air conditioner
+1. المكيف لا يعمل ; The air conditioner is not working.
+2. في الصيف، يجب أن نستخدم المكيف ; In the summer, we should use the air conditioner.
+3. المكيف يجعل الغرفة باردة ; The air conditioner makes the room cool.
+
+المكيف ; The air conditioner
+1. المكيف ليس باردًا كما ينبغي ; The air conditioner is not as cool as it should be.
+2. قم بتشغيل المكيف ; Turn on the air conditioner.
+3. المكيف ضروري في الصيف ; The air conditioner is necessary in the summer.
+
+هقدر ; I can
+1. هقدر أن أساعدك ; I can help you.
+2. هقدر أن أفعل ذلك ; I can do that.
+3. هقدر أن أذهب غدًا ; I can go tomorrow.
+
+دفع ; Pay
+1. يجب دفع الفاتورة الآن ; The bill must be paid now.
+2. هل يمكنني دفع ببطاقة الائتمان؟ ; Can I pay with a credit card?
+3. أنا سأدفع نقدًا ; I will pay in cash.
+
+أدفع ; I pay
+1. أدفع دائمًا بالكاش ; I always pay in cash.
+2. سأدفع لك في وقت لاحق ; I will pay you later.
+3. هل تفضل أن أدفع الآن؟ ; Would you like me to pay now?
+
+فيزا ; Visa
+1. هل تقبلون بطاقات الفيزا؟ ; Do you accept Visa cards?
+2. يمكنك دفع بواسطة فيزا ; You can pay with Visa.
+3. سأستخدم بطاقة الفيزا للحجز ; I will use my Visa card for the reservation.
+
+بفيزا ; With Visa
+1. يمكنك الدفع بفيزا ; You can pay with Visa.
+2. هل تريد دفع بفيزا أم نقدًا؟ ; Do you want to pay with Visa or cash?
+3. لا يقبلون دفع بفيزا هنا ; They don't accept Visa payments here.
+
+فا ; So
+1. الأمور ليست فا سهلة ; Things are not so easy.
+2. أنا فا سعيد برؤيتك ; I am so happy to see you.
+3. فا، ماذا سنفعل اليوم؟ ; So, what are we going to do today?
+
+فاهم ; Understand
+1. هل أنت فاهم ما أقول؟ ; Do you understand what I'm saying?
+2. أنا متأكد أنهم فاهمين الوضع ; I'm sure they understand the situation.
+3. أنا لا أفهم الرياضيات جيدًا ; I don't understand math well.
+
+عرب ; Arabs
+1. العرب شعب كبير ; Arabs are a large nation.
+2. اللغة العربية هي لغتهم ; Arabic is their language.
+3. يجب أن نحترم ثقافة العرب ; We should respect Arab culture.
+
+عربيتي ; My car
+1. هذه عربيتي ; This is my car.
+2. لدي عربيتي الخاصة ; I have my own car.
+3. عربيتي تحتاج إلى صيانة ; My car needs maintenance.
+
+سيئ ; Bad
+1. هذا الفيلم سيئ جدًا ; This movie is very bad.
+2. لا تفعل شيئًا سيئًا ; Don't do anything bad.
+3. سمعت عنه سمعة سيئة ; I heard he has a bad reputation.
+
+سيئة ; Bad (feminine)
+1. هذه الكتب سيئة ; These books are bad.
+2. أنا لست سيئة ; I am not bad.
+3. لا تتصرفي بطريقة سيئة ; Don't behave in a bad way.
+
+جدا ; Very
+1. هذا الطعام لذيذ جداً ; This food is very delicious.
+2. الجو حار جداً اليوم ; It's very hot today.
+3. هذا الفيلم ممتع جداً ; This movie is very enjoyable.
+
+جداً ; Very (with tanween)
+1. هذا الكتاب مفيد جدًاً ; This book is very useful.
+2. العمل الشاق مجهد جدًاً ; Hard work is very tiring.
+3. الجو بارد جدًاً في الشتاء ; The weather is very cold in winter.
+
+عفوا ; Excuse me
+1. عفوا، هل يمكنك مساعدتي؟ ; Excuse me, can you help me?
+2. عفوا، أنا طالب جديد هنا ; Excuse me, I am a new student here.
+3. عفوا، هل يمكنك تكرار ذلك؟ ; Excuse me, can you repeat that?
+
+عفوًا ; Excuse me (with tanween)
+1. عفوًا على الإزعاج ; Excuse me for the inconvenience.
+2. عفوًا، هل يمكنك إعطائي القائمة؟ ; Excuse me, can you give me the menu?
+3. عفوًا، هل يمكنك أن تشرح لي كيفية الوصول إلى هناك؟ ; Excuse me, can you explain how to get there?
+
+تعلم ; Learn
+1. يجب أن نتعلم من خلال الخبرة ; We should learn from experience.
+2. هل تحب تعلم اللغات؟ ; Do you like learning languages?
+3. تعلمت الكثير من هذا الكتاب ; I learned a lot from this book.
+
+بتعلم ; Learning
+1. أنا بتعلم العزف على الجيتار ; I am learning to play the guitar.
+2. هل أنت مهتم بالبرمجة وبتعلم لغات البرمجة؟ ; Are you interested in programming and learning programming languages?
+3. بتعلم اللغة الإنجليزية منذ فترة طويلة ; I have been learning English for a long time.
+
+العربية ; Arabic language
+1. اللغة العربية جميلة ; The Arabic language is beautiful.
+2. أنا أتحدث اللغة العربية ; I speak the Arabic language.
+3. اللغة العربية تحتاج إلى ممارسة ; Arabic language needs practice.
+
+كرر ; Repeat
+1. من فضلك، كرر الجملة ; Please repeat the sentence.
+2. لم أسمع جيدًا، هل يمكنك أن تكرر؟ ; I didn't hear well, can you repeat?
+3. كرر الأمر مرة أخرى ; Repeat the process again.
+
+تكررها ; Repeat it
+1. تكررها من فضلك ; Repeat it, please.
+2. هل يمكنك تكررها لي؟ ; Can you repeat it for me?
+3. يجب أن تتأكد من تكررها بعناية ; You should make sure to repeat it carefully.
+
+تكلم ; Speak
+1. يجب أن تتعلم كيف تتكلم باللغة الإنجليزية ; You should learn how to speak English.
+2. هل تستطيع أن تتكلم بلغة أخرى؟ ; Can you speak another language?
+3. تكلم ببطء من فضلك ; Speak slowly, please.
+
+تتكلم ; You speak
+1. تتكلم اللغة الإنجليزية بطلاقة ; You speak English fluently.
+2. هل تتكلم العربية؟ ; Do you speak Arabic?
+3. تتكلم الإسبانية أيضًا؟ ; Do you speak Spanish as well?
+
+بطء ; Slow
+1. السيارة تسير ببطء ; The car is moving slowly.
+2. يجب أن تتحرك ببطء حول المنعطف ; You should move slowly around the corner.
+3. التصفح على الإنترنت ببطء ; Browsing the internet is slow.
+
+ببطء ; Slowly
+1. اقرأ النص ببطء ; Read the text slowly.
+2. يجب أن تأكل ببطء لتستمتع بالطعام ; You should eat slowly to enjoy the meal.
+3. سارت السيارة ببطء نحو الهدف ; The car moved slowly toward the destination.
+
+ضل ; Stay
+1. ضل هنا لبضع دقائق ; Stay here for a few minutes.
+2. أريد أن أضل هناك لفترة أطول ; I want to stay there for a longer period.
+3. يجب أن تضل هادئًا ; You should stay calm.
+
+فضلك ; Please
+1. هل يمكنك مساعدتي، من فضلك؟ ; Can you help me, please?
+2. أعطني ماء، من فضلك ; Give me some water, please.
+3. تفضل بالجلوس ; Please have a seat.
+
+قول ; Say
+1. قول لي ماذا تفكر ; Say what you're thinking.
+2. هل يمكنك أن تقول لي الحقيقة؟ ; Can you tell me the truth?
+3. لا تقول كل ما تفكر به ; Don't say everything you think.
+
+تقولها ; You say it
+1. هل يمكنك تقولها مرة أخرى؟ ; Can you say it again?
+2. تقولها بشكل جيد ; You say it well.
+3. يجب أن تتأكد من تقولها بوضوح ; You should make sure you say it clearly.
+
+إنجليز ; English
+1. هل تتحدث الإنجليزية؟ ; Do you speak English?
+2. الإنجليزية هي لغة عالمية ; English is a global language.
+3. أنا أتعلم الإنجليزية ; I am learning English.
+
+بالإنجليزية ; In English
+1. يمكنك التحدث بالإنجليزية؟ ; Can you speak in English?
+2. هل يمكنك شرح ذلك بالإنجليزية؟ ; Can you explain that in English?
+3. الرجاء الكتابة بالإنجليزية ; Please write in English.
+
+إنجليزي ; English (adjective)
+1. هذا كتاب إنجليزي جديد ; This is a new English book.
+2. أنا أتعلم اللغة الإنجليزية ; I am learning the English language.
+3. لدي صديق إنجليزي ; I have an English friend.
+
+إيه ; What
+1. إيه هذا؟ ; What is this?
+2. إيه الجديد؟ ; What's new?
+3. إيه أخبارك؟ ; What's your news? (How are you?)
+
+بالعربية ; In Arabic
+1. هل يمكنك شرحه لي بالعربية؟ ; Can you explain it to me in Arabic?
+2. الكتاب متاح بالعربية والإنجليزية ; The book is available in Arabic and English.
+3. يمكنك الكتابة بالعربية؟ ; Can you write in Arabic?
+
+حد ; Someone
+1. حد يبحث عنك ; Someone is looking for you.
+2. أنا لا أعرف حد هنا ; I don't know anyone here.
+3. حد يمكن أن يساعدنا ; Someone can help us.
+
+واحد ; One
+1. لدي واحد فقط ; I have only one.
+2. هل لديك واحد؟ ; Do you have one?
+3. واحد من أصدقائي ذهب إلى مصر ; One of my friends went to Egypt.
+
+نفس ; Same
+1. هذا هو نفس الكتاب ; This is the same book.
+2. نحن نفس الفصل ; We are in the same class.
+3. هل لديك نفس الهوايات؟ ; Do you have the same hobbies?
+
+شيء ; Thing
+1. هل نسيت شيئًا؟ ; Did you forget something?
+2. لا يمكنني أن أرى أي شيء ; I can't see anything.
+3. هذا شيء جديد ; This is something new.
+
+الشيء ; The thing
+1. الشيء الوحيد الذي يمكنني فعله ; The only thing I can do.
+2. أين هو الشيء الذي طلبته؟ ; Where is the thing you asked for?
+3. هل تعلم ما هو الشيء الذي يجب القيام به؟ ; Do you know what the thing that needs to be done is?
+
+يا ; O
+1. يا الله، ما هذا؟ ; O God, what is this?
+2. يا أصدقائي، هيا نذهب ; O my friends, let's go.
+3. يا للحظة الرائعة! ; O, what a wonderful moment!
+
+ليا ; To me
+1. هذا يعني الكثير ليا ; This means a lot to me.
+2. أنا ذاهب لأكتب رسالة ليا ; I'm going to write a letter to me.
+3. سأقوم بذلك من أجلي، ليا ; I will do it for me, to me.
+
+باتي ; Vegetarian
+1. أنا باتي، لا آكل لحم ; I'm vegetarian, I don't eat meat.
+2. هل لديك خيارات باتي في القائمة؟ ; Do you have vegetarian options on the menu?
+3. أنا وصديقي باتيين ; My friend and I are vegetarians.
+
+نباتي ; Vegetarian (noun)
+1. هل تعرف أي نباتيين؟ ; Do you know any vegetarians?
+2. النباتيين يتجنبون تناول منتجات الحيوانات ; Vegetarians avoid consuming animal products.
+3. لدي صديق نباتي ; I have a vegetarian friend.
+
+عند ; At
+1. أنا عند البيت ; I am at home.
+2. نلتقي عند المطعم ; Let's meet at the restaurant.
+3. أين أنت عند الآن؟ ; Where are you at right now?
+
+عندك ; You have
+1. عندك سيارة؟ ; Do you have a car?
+2. عندك أخوة؟ ; Do you have siblings?
+3. عندك أصدقاء كثيرون ; You have many friends.
+
+قائم ; List
+1. أريد أن أطلب من القائمة ; I want to order from the list.
+2. هل يمكنك إعطائي القائمة؟ ; Can you give me the list?
+3. القائمة تحتوي على العديد من الخيارات ; The list contains many options.
+
+القائمة ; The list
+1. هذه هي القائمة ; This is the list.
+2. القائمة تحتوي على الأطعمة المفضلة لي ; The list contains my favorite foods.
+3. يجب أن تقرأ القائمة جيدًا ; You should read the list carefully.
+
+حار ; Hot
+1. الطعام حار جداً ; The food is very hot.
+2. الطقس حار في الصيف ; The weather is hot in the summer.
+3. الشاي حار ولذيذ ; The tea is hot and delicious.
+
+حارة ; Hot (feminine)
+1. الشوربة حارة ; The soup is hot.
+2. هذه الحقيبة حارة ; This bag is hot.
+3. لا تلمسي القطعة، إنها حارة ; Don't touch the piece, it's hot.
+
+تير ; Tire
+1. عليك أن تغير الإطار القديم ; You need to change the old tire.
+2. لديك إطار احتياطي؟ ; Do you have a spare tire?
+3. الإطارات الجديدة تجعل السيارة تسير بسلاسة ; New tires make the car drive smoothly.
+
+كتير ; A lot
+1. أحب هذا المكان كتير ; I love this place a lot.
+2. هل تعرف أنهم يحبونك كتير؟ ; Do you know they love you a lot?
+3. كنت مشغولًا كتير اليوم ; I was very busy today.
+
+إتن ; Two
+1. لدي إتنين منهم ; I have two of them.
+2. هل يمكنني الحصول على إتنين؟ ; Can I get two?
+3. إتنين من أصدقائي ذهبوا إلى البحر ; Two of my friends went to the beach.
+
+إتنين ; Two (with tanween)
+1. لدي إتنين منهم ; I have two of them.
+2. هل يمكنني الحصول على إتنين؟ ; Can I get two?
+3. إتنين من أصدقائي ذهبوا إلى البحر ; Two of my friends went to the beach.
+
+قهو ; Coffee
+1. أحب أن أشرب قهوة في الصباح ; I love to drink coffee in the morning.
+2. هل تفضل القهوة الساخنة أم الباردة؟ ; Do you prefer hot coffee or cold coffee?
+3. هذا المكان مشهور بقهوته اللذيذة ; This place is famous for its delicious coffee.
+
+قهوة ; Coffee (feminine)
+1. القهوة لذيذة جدًا ; Coffee is very delicious.
+2. هل تشرب القهوة بالحليب؟ ; Do you drink coffee with milk?
+3. أنا بحاجة إلى كوب قهوة ; I need a cup of coffee.
+
+ترك ; Leave
+1. يجب عليك أن تترك هذا المكان ; You should leave this place.
+2. هل يمكنك ترك تعليق؟ ; Can you leave a comment?
+3. سأترك العمل مبكرًا اليوم ; I will leave work early today.
+
+تركية ; Turkish (feminine)
+1. الطعام التركي لذيذ ; Turkish food is delicious.
+2. أنا أحب الشاي التركي ; I love Turkish tea.
+3. هل تعرف كيفية تحضير القهوة التركية؟ ; Do you know how to make Turkish coffee?
+
+خفيف ; Light
+1. هذا الطعام خفيف على المعدة ; This food is light on the stomach.
+2. الثوب خفيف ومناسب للصيف ; The dress is light and suitable for summer.
+3. الشمس تشع بضوء خفيف ; The sun is shining with a light.
+
+خفيفة ; Light (feminine)
+1. هذه الحقيبة خفيفة ; This bag is light.
+2. العشاء كان وجبة خفيفة ; Dinner was a light meal.
+3. الأمطار كانت خفيفة هذا الصباح ; The rain was light this morning.
+
+شو ; What
+1. شو في البرنامج؟ ; What's on the program?
+2. شو أفضل كتاب قرأته؟ ; What's the best book you've read?
+3. شو بتحب تعمل اليوم؟ ; What do you want to do today?
+
+شوية ; A little
+1. أحتاج شوية وقت ; I need a little time.
+2. هل يمكنك أن تمنحني شوية من وقتك؟ ; Can you give me a little of your time?
+3. أنا فقط أحتاج شوية مساعدة ; I just need a little help.
+
+سكر ; Sugar
+1. هل تضيف السكر إلى القهوة؟ ; Do you add sugar to your coffee?
+2. الكعكة تحتوي على الكثير من السكر ; The cake contains a lot of sugar.
+3. هل لديك سكر بني أم سكر أبيض؟ ; Do you have brown sugar or white sugar?
+
+بطاق ; Card
+1. أين بطاقة الائتمان؟ ; Where is the credit card?
+2. يمكنك دفع ببطاقة الخصم ; You can pay with a debit card.
+3. لدي بطاقة هوية ; I have an ID card.
+
+بالبطاقة ; By card
+1. هل يمكنني الدفع بالبطاقة؟ ; Can I pay by card?
+2. نحن نقبل الدفع بالبطاقة ; We accept payment by card.
+3. أفضل الدفع بالبطاقة ; I prefer to pay by card.
+
+فاتور ; Bill
+1. أين الفاتورة؟ ; Where is the bill?
+2. هل يمكنك أن تطلب الفاتورة؟ ; Can you ask for the bill?
+3. الفاتورة تشمل الطعام والشراب ; The bill includes the food and drinks.
+
+الفاتورة ; The bill
+1. هذه هي الفاتورة ; This is the bill.
+2. من فضلك، قدم الفاتورة ; Please bring the bill.
+3. الفاتورة مكلفة قليلاً ; The bill is a bit expensive.
+
+كل ; Eat
+1. يجب أن نأكل الفاكهة يوميًا ; We should eat fruit every day.
+2. هل تحب أن تأكل اللحم؟ ; Do you like to eat meat?
+3. أحب أن أأكل البيتزا ; I love to eat pizza.
+
+أكل ; Food
+1. هل لديك أي نوع من الأكل؟ ; Do you have any type of food?
+2. الأكل هنا لذيذ جدًا ; The food here is very delicious.
+3. يجب أن نأكل طعام صحي ; We should eat healthy food.
+
+(فحص ; (Check
+1. هل يمكنك دفع الفحص؟ ; Can you pay the check?
+2. الفحص يشمل الطعام والشراب ; The check includes the food and drinks.
+3. من فضلك، قدم الفحص ; Please bring the check.
+
+أمان) ; (Safety)
+1. يجب على الأطفال أن يتعلموا قواعد الأمان ; Children should learn safety rules.
+2. الأمان هو الأهم ; Safety is the most important thing.
+3. لديك وسائل الأمان اللازمة؟ ; Do you have the necessary safety equipment?
+
+حاج ; Thing
+1. هذا الحاج مهم ; This thing is important.
+2. هل لديك حاجة تود أن تشاركها؟ ; Do you have a thing you want to share?
+3. الحاج الوحيد الذي يحتاجه الأمر هو الصبر ; The only thing needed is patience.
+
+حاجة ; Thing (feminine)
+1. لدي حاجة واحدة فقط ; I have only one thing.
+2. هل لديك حاجة تحتاج إليها؟ ; Do you have a thing you need?
+3. الحاجة الوحيدة التي تحتاجها هي الحب ; The only thing you need is love.
+
+مام ; Mom
+1. مام، أنا جائع ; Mom, I'm hungry.
+2. مام، هل يمكنك مساعدتي؟ ; Mom, can you help me?
+3. مام، أنا أحبك ; Mom, I love you.
+
+تمام ; Fine
+1. كيف حالك؟ - تمام، شكرًا ; How are you? - Fine, thanks.
+2. هل أنت بخير؟ - نعم، أنا تمام ; Are you okay? - Yes, I'm fine.
+3. كيف كان يومك؟ - كان تمامًا ; How was your day? - It was fine.
+
+مجرد ; Just
+1. أنا مجرد طفل ; I'm just a child.
+2. هل هذا كل شيء؟ - نعم، مجرد ذلك ; Is that all? - Yes, just that.
+3. أنا مجرد زائر هنا ; I'm just a visitor here.
+
+فضل ; Favor
+1. هل يمكنك أن تفعل لي معروفًا؟ ; Can you do me a favor?
+2. أنا ممتن لك على هذا الفضل ; I am grateful for this favor.
+3. لم تفعل لي أي فضل ; You didn't do me any favor.
+
+تفضل ; Please
+1. تفضل بالدخول ; Please come in.
+2. تفضل بشرب قهوة ; Please have some coffee.
+3. تفضل هذه الكتب ; Please take these books.
+
+(حمام ; (Bathroom)
+1. أين الحمام؟ ; Where is the bathroom?
+2. هل يمكنك أن توجهني إلى الحمام؟ ; Can you direct me to the bathroom?
+3. أحتاج إلى استخدام الحمام ; I need to use the bathroom.
+
+سباحة) ; (Swimming)
+1. هل تحب السباحة؟ ; Do you like swimming?
+2. أنا ذاهب إلى حصة السباحة ; I'm going to the swimming class.
+3. السباحة ممتعة في الصيف ; Swimming is fun in the summer.
+
+السباحة) ; (Swimming)
+1. هل تحب السباحة؟ ; Do you like swimming?
+2. أنا ذاهب إلى حصة السباحة ; I'm going to the swimming class.
+3. السباحة ممتعة في الصيف ; Swimming is fun in the summer.
+
+أي ; Which
+1. أي كتاب تفضل قراءته؟ ; Which book do you prefer to read?
+2. أي لون تحب؟ ; Which color do you like?
+3. أي يوم تفضل للالتقاء؟ ; Which day do you prefer to meet?
+
+أيه ; What
+1. أيه الذي حدث؟ ; What happened?
+2. أيه الجديد؟ ; What's new?
+3. أيه هذا؟ ; What is this?
+
+أماكن ; Places
+1. هل قمت بزيارة أي أماكن جديدة مؤخرًا؟ ; Have you visited any new places recently?
+2. هل لديك قائمة بالأماكن التي تود زيارتها؟ ; Do you have a list of places you want to visit?
+3. أحب السفر واستكشاف الأماكن الجديدة ; I love traveling and exploring new places.
+
+الأماكن ; The places
+1. هذه هي الأماكن التي قمت بزيارتها ; These are the places I visited.
+2. الأماكن السياحية في مصر رائعة ; The tourist places in Egypt are wonderful.
+3. يجب أن تزور الأماكن التاريخية ; You should visit historical places.
+
+فاض ; Empty
+1. الصندوق فاض ; The box is empty.
+2. هل يمكنك ملء الكوب لي؟ - آسف، الكوب فاض ; Can you fill the cup for me? - Sorry, the cup is empty.
+3. المكان فاضي اليوم ; The place is empty today.
+
+الفاضية ; The empty (feminine)
+1. الصفحة الفاضية ; The empty page.
+2. الشارع فاضي ; The street is empty.
+3. الغرفة فاضية ; The room is empty.
+
+لحد ; Until
+1. سأبقى هنا لحد الوصول ; I will stay here until arrival.
+2. يجب أن تعمل لحد النجاح ; You should work until you succeed.
+3. هل يمكنك الانتظار لحد العصر؟ ; Can you wait until the afternoon?
+
+متى ; When
+1. متى ستذهب؟ ; When will you go?
+2. متى تستيقظ عادة في الصباح؟ ; When do you usually wake up in the morning?
+3. متى سنلتقي مرة أخرى؟ ; When will we meet again?
+
+مفتوح ; Open
+1. المحل مفتوح طوال اليوم ; The shop is open all day.
+2. هل المكتب مفتوح اليوم؟ ; Is the office open today?
+3. المتجر مفتوح حتى الليل ; The store is open until midnight.
+
+جب ; Bring
+1. هل يمكنك جلب لي كتابًا؟ ; Can you bring me a book?
+2. أريدك أن تجلب الطعام ; I want you to bring the food.
+3. جلبت معي الهدية ; I brought the gift with me.
+
+واجبي ; My duty
+1. هذا واجبي ; This is my duty.
+2. يجب أن أقوم بواجبي ; I must do my duty.
+3. أنا ملتزم بواجبي ; I am committed to my duty.
+
+واجب ; Duty
+1. ما هو واجبك؟ ; What is your duty?
+2. الواجب يأتي أولاً ; Duty comes first.
+3. عليك أداء واجبك ; You must fulfill your duty.
+
+غرف ; Rooms
+1. هذا الفندق يحتوي على العديد من الغرف ; This hotel has many rooms.
+2. هل يمكنك أن تظهر لي الغرفة؟ ; Can you show me the room?
+3. لدينا ثلاث غرف في المنزل ; We have three rooms in the house.
+
+الغرفة ; The room
+1. هذه هي الغرفة التي سأقيم فيها ; This is the room I will stay in.
+2. الغرفة كبيرة ومريحة ; The room is large and comfortable.
+3. هل يمكنك تنظيف الغرفة؟ ; Can you clean the room?
+
+ين ; Where
+1. ين القط؟ ; Where is the cat?
+2. ين يمكنني العثور على مفتاحي؟ ; Where can I find my keys?
+3. ين تريد أن تذهب؟ ; Where do you want to go?
+
+فين ; Where (slang)
+1. فين راح؟ ; Where did he go?
+2. فين الكتب؟ ; Where are the books?
+3. فين يمكنني العثور على المطعم؟ ; Where can I find the restaurant?
+
+محتاج ; Need
+1. أنا محتاج إلى مزيد من الوقت ; I need more time.
+2. هل تحتاج إلى مساعدة؟ ; Do you need help?
+3. أنا محتاج للراحة ; I need some rest.
+
+حمام ; Bathroom
+1. أحتاج إلى الذهاب إلى الحمام ; I need to go to the bathroom.
+2. أين يمكنني العثور على الحمام؟ ; Where can I find the bathroom?
+3. الحمام مشغول الآن ; The bathroom is occupied now.
+
+الحمام ; The bathroom
+1. هذا هو الحمام ; This is the bathroom.
+2. الحمام نظيف جدًا ; The bathroom is very clean.
+3. أنا في الحمام الآن ; I'm in the bathroom now.
+
+صبح ; Morning
+1. صبح الخير ; Good morning.
+2. هل تستيقظ دائمًا في الصباح الباكر؟ ; Do you always wake up early in the morning?
+3. أحب أن أمضي وقتي في الصباح بالقراءة ; I love to spend my time in the morning reading.
+
+تصبح ; You become
+1. تصبح على خير ; Good night.
+2. تصبح على ما تتمناه ; May you become what you wish for.
+3. كيف تصبح في الصباح؟ ; How do you become in the morning?
+
+على ; On
+1. الكتاب على الطاولة ; The book is on the table.
+2. أنا على الهاتف الآن ; I'm on the phone now.
+3. القطة على السرير ; The cat is on the bed.
+
+خير ; Good
+1. صباح الخير ; Good morning.
+2. لديك يوم جيد ; Have a good day.
+3. الطعام كان جيدًا جدًا ; The food was very good.
+
+إز ; How
+1. إزيك؟ ; How are you?
+2. إزاي الأمور؟ ; How are things?
+3. إزاي نصل إلى هناك؟ ; How do we get there?
+
+إزيك ; How are you? (slang)
+1. إزيك؟ ; How are you?
+2. إزيك يا صديقي؟ ; How are you, my friend?
+3. إزيك يا حبيبي؟ ; How are you, my love?
+
+ويس ; Okay
+1. هل أنت بخير؟ - ويس ; Are you okay? - Okay.
+2. هل تستمتع بالوقت؟ - ويس ; Are you enjoying your time? - Okay.
+3. هل يمكنك مساعدتي؟ - ويس ; Can you help me? - Okay.
+
+كويس ; Good (slang)
+1. كويس يا صديقي؟ ; Are you good, my friend?
+2. كويس يعني جيد ; Good means okay.
+3. كويس، شكرًا ; Good, thank you.
+
+تس ; You live
+1. أين تسكن؟ ; Where do you live?
+2. تسكن في القاهرة؟ ; Do you live in Cairo?
+3. تسكن مع عائلتك؟ ; Do you live with your family?
+
+بتسكن ; You live (slang)
+1. بتسكن فين؟ ; Where do you live?
+2. بتسكن مع مين؟ ; Who do you live with?
+3. بتسكن في شقة؟ ; Do you live in an apartment?
+
+قاهر ; Cairo
+1. أنا أعيش في قاهرة ; I live in Cairo.
+2. قاهرة هي عاصمة مصر ; Cairo is the capital of Egypt.
+3. قاهرة مدينة كبيرة وحديثة ; Cairo is a big and modern city.
+
+القاهرة ; Cairo
+1. أنا أعيش في القاهرة ; I live in Cairo.
+2. القاهرة هي عاصمة مصر ; Cairo is the capital of Egypt.
+3. القاهرة مدينة حضرية كبيرة ; Cairo is a large urban city.
+
+تشرف ; Nice to meet you
+1. تشرفت بلقائك ; Nice to meet you.
+2. تشرفت بالتعرف عليك ; Nice to meet you.
+3. تشرفت بالتحدث إليك ; Nice to talk to you.
+
+تشرفت ; Nice to meet you
+1. تشرفت بلقائك ; Nice to meet you.
+2. تشرفت بالتعرف عليك ; Nice to meet you.
+3. تشرفت بالتحدث إليك ; Nice to talk to you.
+
+معرف ; Know (slang)
+1. أنا معرفش ; I don't know.
+2. معرفش ماذا يجب أن أفعل ; I don't know what I should do.
+3. معرفش كيف أجيب على هذا ; I don't know how to answer this.
+
+بمعرفتك ; By your knowledge
+1. هل يمكنك تفسير ذلك بمعرفتك؟ ; Can you explain that by your knowledge?
+2. هل تستطيع مساعدتي بمعرفتك؟ ; Can you help me by your knowledge?
+3. أنا أعتمد على معرفتك ; I rely on your knowledge.
+
+إسم ; Name
+1. ما هو اسمك؟ ; What is your name?
+2. هل يمكنك كتابة اسمك هنا؟ ; Can you write your name here?
+3. أحب اسمي كثيرًا ; I really like my name.
+
+إسمك ; Your name
+1. ما هو إسمك؟ ; What is your name?
+2. إسمك جميل ; Your name is beautiful.
+3. هل يمكنني معرفة إسمك؟ ; Can I know your name?
+
+تكلف ; Cost
+1. كم تكلف هذه السيارة؟ ; How much does this car cost?
+2. هل يمكنك تحديد التكلفة؟ ; Can you specify the cost?
+3. التكلفة هي مهمة عند شراء شيء جديد ; Cost is important when buying something new.
+
+تكلفة ; The cost
+1. هذه هي تكلفة الخدمة ; This is the cost of the service.
+2. يجب على النظام تقليل تكلفة الإنتاج ; The system must reduce the cost of production.
+3. تكلفة الحياة تزيد يوما بعد يوم ; The cost of living is increasing day by day.
+
+تذكر ; Remember
+1. هل تتذكر اللحظة التي قابلنا فيها؟ ; Do you remember the moment we met?
+2. يجب أن تتذكر القواعد ; You should remember the rules.
+3. هل يمكنك أن تتذكر ما حدث؟ ; Can you remember what happened?
+
+تذكرة ; Ticket
+1. أين تستطيع شراء التذكرة؟ ; Where can you buy the ticket?
+2. هل لديك تذكرة الدخول؟ ; Do you have the admission ticket?
+3. يجب أن نحجز تذكرة الطائرة مسبقًا ; We should book the airplane ticket in advance.
+
+إلى ; To
+1. سأذهب إلى العمل ; I will go to work.
+2. هل تستطيع أن تأخذني إلى المطار؟ ; Can you take me to the airport?
+3. هل تعرف كيفية الوصول إلى المكتبة؟ ; Do you know how to get to the library?
+
+ام ; Mother
+1. أمي تحب الطهي ; My mother loves cooking.
+2. أمي هي أفضل شخص في العالم ; My mother is the best person in the world.
+3. أمي دائمًا تقدم لي المشورة ; My mother always gives me advice.
+
+كام ; How many
+1. كام أخ لديك؟ ; How many brothers do you have?
+2. كام ساعة عندك؟ ; How many watches do you have?
+3. كام كتاب تقرأه؟ ; How many books do you read?
+
+درس ; Lesson
+1. كيف كان درس اليوم؟ ; How was today's lesson?
+2. هل لديك درس الغد؟ ; Do you have a lesson tomorrow?
+3. الدرس كان ممتعًا جدًا ; The lesson was very enjoyable.
+
+بدرس ; I study (slang)
+1. بدرس في الجامعة ; I study at the university.
+2. بدرس لاجتياز الامتحان ; I study to pass the exam.
+3. بدرس عن التاريخ ; I study about history.
+
+جامع ; Mosque
+1. هذا جامع كبير ; This is a big mosque.
+2. الجامع هو مكان للصلاة ; The mosque is a place for prayer.
+3. أحب أن أذهب إلى الجامع يوم الجمعة ; I like to go to the mosque on Fridays.
+
+جامعة ; University
+1. أنا طالب في الجامعة ; I am a student at the university.
+2. الجامعة تقدم تعليم عالي الجودة ; The university provides high-quality education.
+3. هل تدرس في الجامعة؟ ; Do you study at the university?
+
+مصر ; Egypt
+1. أنا من مصر ; I am from Egypt.
+2. مصر هي دولة جميلة ; Egypt is a beautiful country.
+3. مصر لديها تاريخ طويل وعريق ; Egypt has a long and rich history.
+
+مصرية ; Egyptian (feminine)
+1. هي مصرية ; She is Egyptian.
+2. المرأة المصرية قوية ; The Egyptian woman is strong.
+3. الثقافة المصرية غنية ومتنوعة ; Egyptian culture is rich and diverse.
+
+جيب ; Get
+1. هل يمكنك جلب لي الماء؟ ; Can you get me some water?
+2. أحتاجك لتجلب لي الطعام ; I need you to get me food.
+3. هل جلبت مفتاح السيارة؟ ; Did you get the car key?
+
+أجيب ; I get (slang)
+1. أجيب الخضار من السوق ; I get vegetables from the market.
+2. أجيب الفطور كل صباح ; I get breakfast every morning.
+3. أجيب المعلومات من الإنترنت ; I get information from the internet.
+
+سعر ; Price
+1. كم سعر هذا المنتج؟ ; What is the price of this product?
+2. السعر معقول ; The price is reasonable.
+3. السعر قد يتغير ; The price may change.
+
+أتوبيس ; Bus
+1. أريد أن أركب الأتوبيس ; I want to take the bus.
+2. هل يمكنني معرفة مواعيد الأتوبيس؟ ; Can I know the bus schedule?
+3. الأتوبيس مزدحم في هذا الوقت ; The bus is crowded at this time.
+
+الأتوبيس ; The bus
+1. الأتوبيس قد وصل ; The bus has arrived.
+2. يجب أن نأخذ الأتوبيس ; We should take the bus.
+3. هل الأتوبيس متاح الآن؟ ; Is the bus available now?
+
+يروح ; He goes
+1. يروح إلى المدرسة يوميًا ; He goes to school every day.
+2. يروح إلى العمل في السيارة ; He goes to work by car.
+3. يروح إلى الصالة الرياضية كل صباح ; He goes to the gym every morning.
+
+بيروح ; He goes (slang)
+1. بيروح إلى الجامعة ; He goes to the university.
+2. بيروح إلى العمل بالقطار ; He goes to work by train.
+3. بيروح إلى المكتبة يوم الأحد ; He goes to the library on Sundays.
+
+مت ; Dead
+1. الزهرة ماتت ; The flower is dead.
+2. هل هذا الحيوان مت؟ ; Is this animal dead?
+3. الأمل ليس ماتًا ; Hope is not dead.
+
+نمت ; I slept
+1. نمت طوال الليل ; I slept all night.
+2. نمت في الغرفة الكبيرة ; I slept in the big room.
+3. لم أنم الليلة الماضية ; I didn't sleep last night.
+
+تاكل ; You eat
+1. ماذا تأكل للغداء؟ ; What do you eat for lunch?
+2. هل تأكل الفواكه يوميًا؟ ; Do you eat fruits every day?
+3. أحب أن أأكل البيتزا ; I love to eat pizza.
+
+ده ; This
+1. هذا هو المنزل الجديد ; This is the new house.
+2. هل تعرف هذا الرجل؟ ; Do you know this man?
+3. هذا كتابي المفضل ; This is my favorite book.
+
+عايزين ; We want (slang)
+1. عايزين شاي ; We want tea.
+2. عايزين نذهب للمطعم ; We want to go to the restaurant.
+3. عايزين نتعلم شيئًا جديدًا ; We want to learn something new.
+
+تغدى ; You have lunch
+1. هل تغدى معي؟ ; Will you have lunch with me?
+2. هل ستغدى في المدرسة؟ ; Will you have lunch at school?
+3. أحب تغدية البيتزا ; I love having pizza for lunch.
+
+نتغدى ; We have lunch (slang)
+1. نتغدى في المقهى ; We have lunch at the café.
+2. نتغدى في المدرسة ; We have lunch at school.
+3. نتغدى مع الأصدقاء ; We have lunch with friends.
+
+إن ; If
+1. إن كنت مستعدًا، سنذهب الآن ; If you're ready, we'll go now.
+2. إن كنت تحب الشوكولاتة، هذا لك ; If you like chocolate, this is for you.
+3. إن لديك أي أسئلة، فلا تتردد في طرحها ; If you have any questions, feel free to ask.
+
+إنت ; You (slang)
+1. إنت عامل إيه؟ ; What are you doing?
+2. إنت حالك إيه؟ ; How are you?
+3. إنت بتروح فين؟ ; Where are you going?
+
+جوع ; Hunger
+1. الجوع يؤلم ; Hunger hurts.
+2. لدي جوع شديد ; I am very hungry.
+3. هل يمكنك مساعدتي في تخفيف الجوع؟ ; Can you help me relieve hunger?
+
+جوعان ; Hungry (slang)
+1. أنا جوعان ; I'm hungry.
+2. بقدر أجيب لي شيء لأكل؟ ; Can I get something to eat?
+3. متى نذهب لتناول الطعام؟ ; When do we go for food?
+
+خل ; Leave
+1. سأخرج من المكتب قريبًا ; I will leave the office soon.
+2. يجب عليك أن تترك هذا المكان ; You should leave this place.
+3. هل يمكنك أن تخبرني عندما تخرج؟ ; Can you inform me when you leave?
+
+تخليني ; You leave me
+1. لا تتخليني ; Don't leave me.
+2. هل ستتخليني عني؟ ; Will you leave me?
+3. تخليني وحيدًا ; You leave me alone.
+
+نزل ; He goes down
+1. هل سينزل الجبل؟ ; Will he go down the mountain?
+2. أريد أن أنزل الدرج ; I want to go down the stairs.
+3. هل يمكنني أن أنزل النافذة؟ ; Can I lower the window?
+
+أنزل ; I go down (slang)
+1. أنزل الدرج ببطء ; I go down the stairs slowly.
+2. عندما أنزل الشارع، سأشتري طعامًا ; When I go down the street, I will buy food.
+3. أنزل الصوت، من فضلك ; Lower the volume, please.
+
+وقف ; Stop
+1. يجب عليك أن توقف السيارة ; You must stop the car.
+2. الحافلة ستوقف هنا ; The bus will stop here.
+3. هل يمكنك التوقف لحظة؟ ; Can you stop for a moment?
+
+توقف ; You stop
+1. يجب أن تتوقف هنا ; You must stop here.
+2. توقف هذا الضوضاء! ; Stop this noise!
+3. هل يمكنك توقف السيارة؟ ; Can you stop the car?
+
+عني ; About me
+1. أنا لا أحب الحديث عني ; I don't like talking about myself.
+2. هل تعرف شيئًا عني؟ ; Do you know anything about me?
+3. أنا لا أتحدث عني كثيرًا ; I don't talk about myself much.
+
+يعني ; It means
+1. ماذا تعني هذه الكلمة؟ ; What does this word mean?
+2. إنه يعني الكثير بالنسبة لي ; It means a lot to me.
+3. لا أعرف ماذا تعني ; I don't know what it means.
+
+عربي ; Arab (masculine)
+1. أنا عربي ; I am Arab.
+2. الثقافة العربية غنية ومتنوعة ; Arab culture is rich and diverse.
+3. يتحدث العربية بطلاقة ; He speaks Arabic fluently.
+
+مفهمتش ; I didn't understand (slang)
+1. مفهمتش ما قلته ; I didn't understand what you said.
+2. مفهمتش هذا الدرس ; I didn't understand this lesson.
+3. مفهمتش الموقف ; I didn't understand the situation.
+
+عاجب ; Like
+1. هذا المكان عاجبني ; I like this place.
+2. الأفلام الكوميدية عاجبة الجميع ; Comedy movies are liked by everyone.
+3. ماذا عاجبك في هذا الفنان؟ ; What do you like about this artist?
+
+عاجبني ; I like (slang)
+1. عاجبني هذا الألبوم ; I like this album.
+2. عاجبني الفيلم كثيرًا ; I really like the movie.
+3. عاجبني هذا اللون ; I like this color.
+
+موسيق ; Music
+1. أحب أن أستمع إلى الموسيقى ; I love to listen to music.
+2. الموسيقى هي لغة العواطف ; Music is the language of emotions.
+3. هل تعزف الموسيقى؟ ; Do you play music?
+
+موسيقاك ; Your music
+1. هل يمكنني سماع موسيقاك؟ ; Can I listen to your music?
+2. أنا معجب بموسيقاك ; I am a fan of your music.
+3. كيف يمكنني الحصول على موسيقاك؟ ; How can I get your music?
+
+مقبول ; Acceptable
+1. هذا الاقتراح مقبول ; This proposal is acceptable.
+2. السعر مقبول جدًا ; The price is very acceptable.
+3. السلوك غير الملائم غير مقبول ; Inappropriate behavior is not acceptable.
+
+مقبولة ; Acceptable (feminine)
+1. هذه الفكرة مقبولة ; This idea is acceptable.
+2. المظهر العام مقبول ; The overall appearance is acceptable.
+3. الجودة المقدمة مقبولة جدًا ; The quality provided is very acceptable.
+
+هنزل ; I will go down (slang)
+1. هنزل السلم ; I will go down the stairs.
+2. هنزل الشارع ; I will go down the street.
+3. هنزل الصوت ; I will lower the volume.
+
+عندي ; I have
+1. عندي موعد في الساعة الثالثة ; I have an appointment at 3 o'clock.
+2. عندي الكثير من الأصدقاء ; I have many friends.
+3. عندي فكرة جيدة ; I have a good idea.
+
+شغلت ; I turned on (slang)
+1. شغلت التلفزيون ; I turned on the TV.
+2. شغلت الموسيقى ; I turned on the music.
+3. شغلت الضوء ; I turned on the light.
+
+زا ; Very (slang)
+1. الجو حار زا ; The weather is very hot.
+2. هذا الطعام لذيذ زا ; This food is very delicious.
+3. هذا الفيلم ممتع زا ; This movie is very enjoyable.
+
+مقبولة ; Acceptable (feminine)
+1. هذه الفكرة مقبولة ; This idea is acceptable.
+2. المظهر العام مقبول ; The overall appearance is acceptable.
+3. الجودة المقدمة مقبولة جدًا ; The quality provided is very acceptable.
+
+متأكد ; Sure
+1. أنا متأكد من ذلك ; I am sure about that.
+2. هل أنت متأكد من الجواب؟ ; Are you sure about the answer?
+3. يجب أن نكون متأكدين من الخطة ; We must be sure about the plan.
+
+لي ; For me
+1. هذا هو أفضل كتاب على الإطلاق بالنسبة لي ; This is the best book ever for me.
+2. هل يمكنك القيام بهذا لأجلي؟ ; Can you do this for me?
+3. هذا مهم لي جدًا ; This is very important for me.
+
+موسيقى ; Music
+1. الموسيقى تعبر عن المشاعر ; Music expresses emotions.
+2. هل تستمع إلى الموسيقى؟ ; Do you listen to music?
+3. أنا محب للموسيقى ; I am a music lover.
+
+جميل ; Beautiful
+1. هذا المكان جميل جدًا ; This place is very beautiful.
+2. هذه اللوحة جميلة ; This painting is beautiful.
+3. الشمس غروب جميل ; The sunset is beautiful.
+
+جميلة ; Beautiful (feminine)
+1. هذه الفتاة جميلة ; This girl is beautiful.
+2. الطبيعة جميلة جدًا ; Nature is very beautiful.
+3. هذا الزهر جميلة ; This flower is beautiful.
+
+تزعلش ; Don't be upset (slang)
+1. تزعلش بسرعة ; Don't be upset quickly.
+2. تزعلش من هذا ; Don't be upset about this.
+3. تزعلش من الأشياء الصغيرة ; Don't be upset about small things.
+
+شغلت ; I turned on (slang)
+1. شغلت التلفزيون ; I turned on the TV.
+2. شغلت الموسيقى ; I turned on the music.
+3. شغلت الضوء ; I turned on the light.
+
+زا ; Very (slang)
+1. الجو حار زا ; The weather is very hot.
+2. هذا الطعام لذيذ زا ; This food is very delicious.
+3. هذا الفيلم ممتع زا ; This movie is very enjoyable.
+
+مقبولة ; Acceptable (feminine)
+1. هذه الفكرة مقبولة ; This idea is acceptable.
+2. المظهر العام مقبول ; The overall appearance is acceptable.
+3. الجودة المقدمة مقبولة جدًا ; The quality provided is very acceptable.
+
+متأكد ; Sure
+1. أنا متأكد من ذلك ; I am sure about that.
+2. هل أنت متأكد من الجواب؟ ; Are you sure about the answer?
+3. يجب أن نكون متأكدين من الخطة ; We must be sure about the plan.
+
+لي ; For me
+1. هذا هو أفضل كتاب على الإطلاق بالنسبة لي ; This is the best book ever for me.
+2. هل يمكنك القيام بهذا لأجلي؟ ; Can you do this for me?
+3. هذا مهم لي جدًا ; This is very important for me.
+
+تقصد ; You mean
+1. ماذا تقصد بهذا؟ ; What do you mean by this?
+2. هل تقصد أنك لا تعرف؟ ; Do you mean you don't know?
+3. تقصد أنك ستأتي غدًا؟ ; Do you mean you will come tomorrow?
+
+بتقصده ; You mean (slang)
+1. بتقصده أنك لا تهتم؟ ; Do you mean you don't care?
+2. بتقصده أنها ليست مشكلة؟ ; Do you mean it's not a problem?
+3. بتقصده أنك ستترك؟ ; Do you mean you will leave?
+
+آسف ; Sorry
+1. آسف إذا جرحت مشاعرك ; I'm sorry if I hurt your feelings.
+2. آسف على التأخير ; Sorry for the delay.
+3. آسف لا يكفي ; Sorry is not enough.
+
+مشوش ; Noisy
+1. هذا المكان مشوش جدًا ; This place is very noisy.
+2. الصوت مشوش ; The sound is noisy.
+3. الأطفال يجعلون البيت مشوشًا ; Children make the house noisy.
+
+جيدة ; Good (feminine)
+1. هذه الكتب جيدة جدًا ; These books are very good.
+2. هذه الطعام جيدة ; This food is good.
+3. هل هذه الفكرة جيدة؟ ; Is this idea good?
+
+دور ; Turn (slang)
+1. دور الزر ; Turn the button.
+2. دور الصفحة ; Turn the page.
+3. دور يسارًا ; Turn left.
+
+دورة ; Course
+1. أنا أدرس دورة في اللغة الإنجليزية ; I am taking a course in English.
+2. هل تفضل دورة معينة؟ ; Do you prefer a specific course?
+3. دورة السباحة تبدأ في الصيف ; The swimming course starts in the summer.
+
+رر ; Repeat
+1. يجب عليك أن تكرر هذا الدرس ; You must repeat this lesson.
+2. هل يمكنك تكرار هذا؟ ; Can you repeat this?
+3. يمكنني تكرار الأرقام ; I can repeat the numbers.
+
+إزاي ; How (slang)
+1. إزاي تعرف هذا؟ ; How do you know this?
+2. إزاي تفعل ذلك؟ ; How do you do that?
+3. إزاي يمكنني الوصول إلى المطار؟ ; How can I get to the airport?
+
+رجم ; Translate (slang)
+1. هل يمكنك أن ترجم هذه الجملة؟ ; Can you translate this sentence?
+2. سأحاول أن أرجم هذا النص ; I will try to translate this text.
+3. كيف يمكنني ترجمة هذا الكتاب؟ ; How can I translate this book?
+
+أترجم ; I translate (slang)
+1. أترجم الكتب من الإنجليزية إلى العربية ; I translate books from English to Arabic.
+2. أحب أن أترجم الشعر ; I love to translate poetry.
+3. هل يمكنني أن أترجم هذا المقال؟ ; Can I translate this article?
+
+معنى ; Meaning
+1. ما هو المعنى الصحيح لهذه الكلمة؟ ; What is the correct meaning of this word?
+2. لدي معنى مختلف ; I have a different meaning.
+3. هل يمكنك شرح المعنى؟ ; Can you explain the meaning?
+
+(المطعم) ; The restaurant (slang)
+1. (المطعم) يقدم أفضل الأطعمة ; (The restaurant) serves the best food.
+2. (المطعم) مكان رائع لتناول العشاء ; (The restaurant) is a great place for dinner.
+3. (المطعم) مشهور بأطباقه اللذيذة ; (The restaurant) is famous for its delicious dishes.
+
+الـ ; The (slang)
+1. الـ كتاب هذا جميل ; The book is beautiful.
+2. الـ مسرح رائع ; The theater is amazing.
+3. الـ مطعم هنا شهير ; The restaurant here is famous.
+
+(الطعام) ; The food (slang)
+1. (الطعام) هنا لذيذ ; (The food) here is delicious.
+2. (الطعام) في هذا المكان جيد ; (The food) at this place is good.
+3. (الطعام) في المطعم رائع ; (The food) at the restaurant is amazing.
+
+معمول ; Made (slang)
+1. هذا المنتج معمول في مصر ; This product is made in Egypt.
+2. معمول يدويًا ; Handmade.
+3. هل تعرف من أين هذا معمول؟ ; Do you know where this is made?
+
+حم ; Meat (slang)
+1. أحب اللحم ; I love meat.
+2. هل يمكنني الحصول على لحم؟ ; Can I get some meat?
+3. اللحم لذيذ جدًا ; The meat is very delicious.
+
+لحم ; Meat
+1. أحب اللحم ; I love meat.
+2. هل يمكنني الحصول على لحم؟ ; Can I get some meat?
+3. اللحم لذيذ جدًا ; The meat is very delicious.
+
+ممكن ; Possible
+1. هل هذا ممكن؟ ; Is this possible?
+2. ما هي الأمور الممكنة؟ ; What are the possible options?
+3. كل شيء ممكن ; Everything is possible.
+
+شا ; Tea
+1. هل تريد شايًا؟ ; Do you want some tea?
+2. الشاي يساعد على الاسترخاء ; Tea helps to relax.
+3. أحب أن أشرب شايًا بالنعناع ; I like to drink mint tea.
+
+شاي ; Tea
+1. هل تريد شايًا؟ ; Do you want some tea?
+2. الشاي يساعد على الاسترخاء ; Tea helps to relax.
+3. أحب أن أشرب شايًا بالنعناع ; I like to drink mint tea.
+
+سود ; Black
+1. هل تحب القهوة السوداء؟ ; Do you like black coffee?
+2. الفستان أسود ; The dress is black.
+3. القمر لامع في السماء السوداء ; The moon shines in the black sky.
+
+أسود ; Black (masculine)
+1. هذا هو اللون الأسود ; This is the color black.
+2. السيارة لونها أسود ; The car is black in color.
+3. الكلب لونه أسود ; The dog is black.
+
+نعناع ; Mint
+1. النعناع يضيف نكهة منعشة ; Mint adds a refreshing flavor.
+2. الشاي بالنعناع لذيذ ; Mint tea is delicious.
+3. هل لديك نعناع؟ ; Do you have mint?
+
+بالنعناع ; With mint
+1. هل يمكنني الحصول على شاي بالنعناع؟ ; Can I get tea with mint?
+2. هذا المشروب معد بالنعناع ; This drink is prepared with mint.
+3. أحب الشاي بالنعناع ; I like tea with mint.
+
+اتشبع ; I am full (slang)
+1. اتشبعت من الطعام ; I am full from the food.
+2. اتشبعت بسرعة ; I got full quickly.
+3. لا يمكنني تناول المزيد، اتشبعت ; I can't eat more, I am full.
+
+اتشبعت ; I am full (feminine, slang)
+1. اتشبعت من الوجبة ; I am full from the meal.
+2. اتشبعت بسرعة ; I got full quickly.
+3. لا يمكنني تناول المزيد، اتشبعت ; I can't eat more, I am full.
+
+فعل ; Verb
+1. الفعل يمكن أن يكون قويًا ; The verb can be strong.
+2. كيف تعرف الفعل؟ ; How do you know the verb?
+3. هذا فعل صعب ; This is a difficult verb.
+
+بالفعل ; Indeed
+1. بالفعل، هذا صحيح ; Indeed, that is true.
+2. هل تعتقد بالفعل أنه سيحدث؟ ; Do you really believe it will happen?
+3. بالفعل، هذا مثير للاهتمام ; Indeed, that is interesting.
+
+ناخد ; We take (slang)
+1. ناخد الحافلة ; We take the bus.
+2. ناخد القهوة ; We take coffee.
+3. ناخد القرار ; We take the decision.
+
+غدا ; Tomorrow
+1. سنلتقي غدًا ; We will meet tomorrow.
+2. غدًا سيكون يومًا مشمسًا ; Tomorrow will be a sunny day.
+3. غدًا هو يوم العطلة ; Tomorrow is a holiday.
+
+قدمل ; I present to you (slang)
+1. قدملك هذا الهدية ; I present to you this gift.
+2. قدملهم الخطة ; I present to them the plan.
+3. قدملي المشروع ; I present to me the project.
+
+أقدملك ; I present to you (slang)
+1. أقدملك هذا الهدية ; I present to you this gift.
+2. أقدملك الشكر ; I present to you my thanks.
+3. أقدملك فرصة جديدة ; I present to you a new opportunity.
+
+جديد ; New
+1. هذا الهاتف جديد ; This phone is new.
+2. هل لديكم منتجات جديدة؟ ; Do you have new products?
+3. هذا المشروع جديد ومثير ; This project is new and exciting.
+
+الجديدة ; New (feminine)
+1. هذه السيارة الجديدة ; This is the new car.
+2. الفرص الجديدة تأتي دائمًا ; New opportunities always come.
+3. الجديدة لها تصميم جميل ; The new one has a beautiful design.
+
+عب ; Tired (slang)
+1. أنا عب ; I am tired.
+2. عبت من العمل ; I got tired from work.
+3. هل يمكنني الجلوس للراحة؟ أنا عب ; Can I sit down to rest? I am tired.
+
+تعبان ; Tired (slang)
+1. أنا تعبان ; I am tired.
+2. تعبان جدًا من العمل ; I am very tired from work.
+3. هل يمكنني الجلوس للراحة؟ أنا تعبان ; Can I sit down to rest? I am tired.
+
+وإنت ; And you? (slang)
+1. كيف حالك؟ وإنت؟ ; How are you? And you?
+2. أنا بخير، وإنت؟ ; I am fine, and you?
+3. وإنت، كيف تشعر؟ ; And you, how do you feel?
+
+صباح ; Morning
+1. صباح الخير ; Good morning.
+2. أحب صباح الأحد ; I love Sunday morning.
+3. صباح جميل ; Beautiful morning.
+
+الخير ; Good (masculine)
+1. هذا هو الخير ; This is the good.
+2. العمل الجيد يتطلب وقتًا ; Good work takes time.
+3. أريد أن أفعل شيئًا جيدًا ; I want to do something good.
+
+يقفل ; He closes (slang)
+1. هو يقفل الباب ; He closes the door.
+2. هل يقفل النافذة؟ ; Does he close the window?
+3. يقفل المتجر في الليل ; He closes the store at night.
+
+بيقفل ; He closes (slang)
+1. هو بيقفل الباب ; He closes the door.
+2. هل هو بيقفل النافذة؟ ; Does he close the window?
+3. بيقفل المتجر في الليل ; He closes the store at night.
+
+إمتى ; When (slang)
+1. إمتى ستعود؟ ; When will you come back?
+2. إمتى تخرج؟ ; When will you graduate?
+3. إمتى سنلتقي مرة أخرى؟ ; When will we meet again?
+
+كليف ; Homework (slang)
+1. عندي كليف ; I have homework.
+2. هل أنت مستعد لعمل الكليف؟ ; Are you ready to do the homework?
+3. عليك أن تنهي الكليف قبل الموعد ; You have to finish the homework before the deadline.
+
+تكليف ; Homework
+1. عندي تكليف ; I have homework.
+2. هل أنت مستعد لعمل التكليف؟ ; Are you ready to do the homework?
+3. عليك أن تنهي التكليف قبل الموعد ; You have to finish the homework before the deadline.
+
+هتروح ; You will go (slang)
+1. هتروح المدرسة غدًا؟ ; Will you go to school tomorrow?
+2. هتروح إلى العمل اليوم؟ ; Will you go to work today?
+3. هتروح الى المدينة؟ ; Will you go to the city?
