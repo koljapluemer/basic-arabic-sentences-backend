@@ -1,0 +1,96 @@
+Here is good; هنا جيد
+I will pay cash; هدفع كاش
+I like the music; أنا عايز الأغنية دي
+Can you turn on the AC?; تقدر تشغل المكيف؟
+Can I pay with VISA?; هقدر أدفع بفيزا؟
+I don't understand; مش فاهم
+My Arabic is very bad; عربيتي سيئة جداً
+Excuse Me; عفوًا
+I'm learning Arabic; أنا بتعلم العربية
+Can you repeat that?; تقدر تكررها؟
+Can you speak slower, please?; تتكلم ببطء، من فضلك؟
+Can you say that in English?; تقولها بالإنجليزية؟
+Do you speak English?; بتتكلم إنجليزي؟
+What is ... in Arabic?; إيه هو ... بالعربية؟
+What is ... in English?; إيه هو ... بالإنجليزية؟
+One ... , please; واحد ... ، من فضلك
+The same for me; نفس الشيء ليا
+What is this?; ده إيه؟
+Is this vegetarian?; ده نباتي؟
+Do you have ... ?; عندك ... ؟
+The menu, please; القائمة، من فضلك
+Not very spicy, please; مش حارة كتير، من فضلك
+Two Turkish coffee, light, with a bit of sugar; إتنين قهوة تركية، خفيفة، مع شوية سكر
+Can I pay with card?; هقدر أدفع بالبطاقة؟
+The bill, please; الفاتورة، من فضلك
+Do you have anything vegetarian?; عندك أكل نباتي؟
+(Security Check) Is everything alright?; (فحص الأمان) كل حاجة تمام؟
+(Security Check) This is just food; (فحص الأمان) دي مجرد أكل
+Here you go (showing something); تفضل
+(Pool) Which lanes are free?; (حمام السباحة) أيه الأماكن الفاضية؟
+How long is it open?; لحد متى مفتوح؟
+Here is my homework; ده واجبي
+Do we have homework?; في واجب؟
+Where is room ... ?; الغرفة ... فين؟
+I need to go to the bathroom; أنا محتاج الحمام
+Good Night; تصبح على خير
+How are you?; إزيك؟
+I'm good, how are you?; أنا كويس، إزيك؟
+Do you live in Cairo?; بتسكن في القاهرة؟
+Nice to meet you; تشرفت بمعرفتك
+What's your name?; إسمك إيه؟
+How much is a ticket to ... ?; تكلفة تذكرة إلى ... كام؟
+I study at an Egyptian university, do I get the Egyptian price?; أنا بدرس في جامعة مصرية، هقدر أجيب سعر مصر؟
+Does this bus go to ... ?; الأتوبيس ده بيروح إلى ... ؟
+Did you sleep well?; نمت كويس؟
+Do you want to eat?; عايز تاكل؟
+Do you want some of this?; عايز من ده؟
+Do you want to get lunch?; عايزين نتغدى؟
+Are you hungry?; إنت جوعان؟
+Can you let me out here?; تقدر تخليني أنزل هنا؟
+Can you stop here?; تقدر توقف هنا؟
+What does ... mean?; ... يعني إيه؟
+Could you repeat that in English?; تقدر تكررها بالإنجليزية؟
+I study Arabic; أنا بدرس عربي
+I didn't get that; مفهمتش
+I like your music; أنا عاجبني موسيقاك
+I would like to pay cash; أنا عايز أدفع كاش
+Is cash ok?; كاش مقبول؟
+I will get out here; هنزل هنا
+I have cash; عندي كاش
+The music is great; الموسيقى جميلة
+Do you mind turning on the AC?; تزعلش لو شغلت المكيف؟
+Is VISA ok?; فيزا مقبولة؟
+I am not sure what you mean; مش متأكد من اللي إنت بتقصده
+Sorry, I am confused; آسف، أنا مشوش
+My Arabic is not good; عربيتي مش جيدة
+Sorry; آسف
+I am taking an Arabic course; أنا بدرس دورة عربي
+Repeat, please; كرر، من فضلك
+A bit slower, please; ببطء شوية، من فضلك
+What is that in English?; إيه ده بالإنجليزية؟
+How do I translate ... ?; إزاي أترجم ... ؟
+What is the meaning of ... ?; إيه معنى ... ؟
+I would like the ...; أنا عايز ...
+(Restaurant) For me, the ...; (المطعم) ليا، الـ...
+I want the same; عايز نفس الشيء
+(Food) What is this made of?; (الطعام) ده معمول من إيه؟
+Is this meat?; ده لحم؟
+Could I have ... ?; ممكن أجيب ...
+I'd like the menu; عايز القائمة
+Not too spicy for me; مش حارة كتير ليا
+One black tea with mint, please; واحد شاي أسود بالنعناع، من فضلك
+Is VISA alright?; فيزا مقبولة؟
+I want to pay; عايز أدفع
+(Security Check) All good?; (فحص الأمان) كل حاجة تمام؟
+Are you full already?; اتشبعت بالفعل؟
+Should we get lunch?; ناخد غدا؟
+Can I offer you some?; ممكن أقدملك؟
+Are you from New Cairo?; إنت من القاهرة الجديدة؟
+I'm a bit tired, and you?; أنا شوية تعبان، وإنت؟
+Good morning; صباح الخير
+When does it close?; بيقفل إمتى؟
+This is my homework; ده واجبي
+Is there an assignment?; في تكليف؟
+I can't find room ... ; مش عارف ألاقي الغرفة ...
+Are you going to ... ?; هتروح إلى ... ؟
