@@ -20,9 +20,10 @@ class MainSentence(models.Model):
          editable = False)
     topic = models.ForeignKey(Topic, on_delete=models.CASCADE)
     english = models.CharField(max_length=500)
-    arabic = models.CharField(max_length=500)
+    arabic = models.CharField(max_length=500, blank=True, null=True)
     def __str__(self):
-        return self.english + " - " + self.arabic
+        return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
+
     
 class SentenceVariation(models.Model):
     id = models.UUIDField(
@@ -31,9 +32,10 @@ class SentenceVariation(models.Model):
          editable = False)
     mainSentence = models.ForeignKey(MainSentence, on_delete=models.CASCADE)
     english = models.CharField(max_length=500)
-    arabic = models.CharField(max_length=500)
+    arabic = models.CharField(max_length=500, blank=True, null=True)
     def __str__(self):
-        return self.english + " - " + self.arabic
+        return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
+
     
 class Word(models.Model):
     id = models.UUIDField(
@@ -43,9 +45,10 @@ class Word(models.Model):
     sentenceVariations = models.ManyToManyField(SentenceVariation)
     mainSentences = models.ManyToManyField(MainSentence)
     english = models.CharField(max_length=500)
-    arabic = models.CharField(max_length=500)
+    arabic = models.CharField(max_length=500, blank=True, null=True)
     def __str__(self):
-        return self.english + " - " + self.arabic
+        return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
+
     
 class Concordance(models.Model):
     id = models.UUIDField(
@@ -54,9 +57,10 @@ class Concordance(models.Model):
          editable = False)
     words = models.ManyToManyField(Word)
     english = models.CharField(max_length=500)
-    arabic = models.CharField(max_length=500)
+    arabic = models.CharField(max_length=500, blank=True, null=True)
     def __str__(self):
-        return self.english + " - " + self.arabic
+        return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
+
     
 class ConcordanceQuestion(models.Model):
     id = models.UUIDField(
