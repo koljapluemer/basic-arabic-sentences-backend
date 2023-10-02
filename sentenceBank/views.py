@@ -21,3 +21,6 @@ def index(request):
 def words(request):
     words = Word.objects.all()
     return render(request, 'words.html', {'words': words})
+
+def exercises(request):
+    return
