@@ -22,5 +22,8 @@ def words(request):
     words = Word.objects.all()
     return render(request, 'words.html', {'words': words})
 
-def exercises(request):
-    return
+def concordances(request):
+    exercise_list = []
+    for concordance in Concordance.objects.all():
+        exercise_list.append(concordance)
+    return render(request, 'concordances.html', {'exercises': exercise_list})

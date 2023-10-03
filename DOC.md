@@ -35,3 +35,30 @@ Here is a list of Egyptian Arabic vocabs. For each one, find three different con
 
 ...probably missing cloze deletion, yes/no questions or something else to do with concordances. Shall probably check lit?
 
+
+15. Start creating exercises from concordances by getting the list from `/concordances` and feed it to ChatGPT:
+
+```
+You are my Egyptian Arabic teacher. I will now give you a list of sentences in Misry. Please create a question with one wrong and one right answer for every sentence, in English. Answer in a code block in the following format:
+
+Original sentence ; question in english ; correct answer ; wrong answer
+
+```
+
+However, I had to correct several times, like:
+
+```
+you are still using very simple "not negation"  "negation" format. Please ask for the content in the sentence in a less predicatable way. Avoid!!! one answer being "yes, X is Y" and the other "no X is not Y"
+```
+
+and 
+
+```
+you are giving the EXACT same answer. please avoid!!! the word "not" or any kind of simple negation in the wrong answer
+```
+
+And the engine is confused everytime the original concordance is a question, so probably skip integrating everything containing ؟ 
+
+Also, the engine started making up sentences after a point, but I guess base logic catches that.
+
+16. I tried generating cloze deletion w/ chatGPT but it's hopeless

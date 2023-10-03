@@ -1,0 +1,108 @@
+هل عايز تساعدني في هذا المشروع؟ ; Are you willing to assist me with this project? ; Yes, I want to help you with this project. ; No, I don't want to assist you with this project.
+أحب أن أغني في الحفلات ; What is one of your favorite activities? ; I enjoy singing at parties. ; I don't enjoy singing at parties.
+هل تستطيع أن تغني لنا أغنية؟ ; Are you capable of singing a song for us? ; Yes, I can sing a song for you. ; No, I can't sing a song for you.
+يُعتبر أحمد من أفضل مغنيي البوب ; Who is considered one of the top pop singers? ; Ahmed is regarded as one of the best pop singers. ; Ahmed is not considered a top pop singer.
+هذه الأغنية جميلة جداً ; How would you describe this song? ; This song is exceptionally beautiful. ; This song is unimpressive.
+لديهم مجموعة رائعة من الأغاني ; What can be said about their collection of songs? ; They have an impressive collection of songs. ; They have a lackluster collection of songs.
+أحب أن أستمع إلى الأغاني القديمة ; What type of songs do you prefer listening to? ; I enjoy listening to old songs. ; I don't enjoy listening to old songs.
+هل تقدر أن تساعدني؟ ; Are you capable of helping me? ; Yes, I can assist you. ; No, I cannot assist you.
+لا أعتقد أنه يمكنني الحضور ; Do you believe you can attend? ; No, I don't think I can attend. ; Yes, I think I can attend.
+يجب أن تثق بنفسك وتعرف ما تقدر على فعله ; What is important when facing challenges? ; You should believe in yourself and know what you are capable of doing. ; You should doubt yourself and be unsure of your abilities.
+أنت تقدر على القيام بذلك ; Are you capable of doing that? ; Yes, I am capable of doing that. ; No, I am not capable of doing that.
+هل تقدر أن تفعل ذلك لي؟ ; Can you do that for me? ; Yes, I can do that for you. ; No, I cannot do that for you.
+يجب أن تكون قادرًا على التحدث بالإنجليزية ; What skill is important to have? ; You should be able to speak English. ; You should not be able to speak English.
+عندي الكثير من الشغل اليوم ; How busy is your day? ; I have a lot of work to do today. ; I have very little work to do today.
+هل تحب شغلك؟ ; Do you enjoy your job? ; Yes, I like my job. ; No, I dislike my job.
+يجب أن تضع جهدًا في الشغل ; What is necessary for success in your work? ; You should put in effort in your job. ; You should not put in effort in your job.
+كيف يمكن تشغيل هذا الجهاز؟ ; What is the process for operating this device? ; You can learn how to operate the car. ; You can't learn how to operate the car.
+يجب أن تتعلم كيفية تشغيل السيارة ; What is a necessary skill? ; You should learn how to operate the car. ; You should not learn how to operate the car.
+هل يمكنك تشغيل الفيديو؟ ; Are you able to play the video? ; Yes, I can play the video. ; No, I cannot play the video.
+المكيف لا يعمل ; What is the issue with the air conditioner? ; The air conditioner is not functioning. ; The air conditioner is working perfectly.
+في الصيف، يجب أن نستخدم المكيف ; What is recommended during the summer? ; It is advisable to use the air conditioner. ; It is not advisable to use the air conditioner.
+المكيف يجعل الغرفة باردة ; What is the purpose of the air conditioner? ; The air conditioner cools the room. ; The air conditioner does not cool the room adequately.
+المكيف ليس باردًا كما ينبغي ; What is the problem with the air conditioner's cooling? ; The air conditioner is not cooling as it should. ; The air conditioner is cooling perfectly.
+قم بتشغيل المكيف ; What should you do with the air conditioner? ; Turn on the air conditioner. ; Turn off the air conditioner.
+المكيف ضروري في الصيف ; How important is the air conditioner during the summer? ; The air conditioner is essential during the summer. ; The air conditioner is not necessary during the summer.
+هقدر أن أساعدك ; Can you assist me? ; Yes, I can help you. ; No, I cannot help you.
+هقدر أن أفعل ذلك ; Can I do that? ; Yes, you can do that. ; No, you cannot do that.
+هقدر أن أذهب غدًا ; Can I go tomorrow? ; Yes, you can go tomorrow. ; No, you cannot go tomorrow.
+يجب دفع الفاتورة الآن ; When should the bill be paid? ; The bill must be paid now. ; The bill does not need to be paid now.
+هل يمكنني دفع ببطاقة الائتمان؟ ; Is it possible to pay with a credit card? ; Yes, you can pay with a credit card. ; No, you cannot pay with a credit card.
+أنا سأدفع نقدًا ; How will you make the payment? ; I will pay in cash. ; I will not pay in cash.
+أدفع دائمًا بالكاش ; What is your preferred payment method? ; I always pay in cash. ; I never pay in cash.
+سأدفع لك في وقت لاحق ; When will you make the payment? ; I will pay you later. ; I will not pay you later.
+هل تفضل أن أدفع الآن؟ ; Would you prefer me to pay now? ; Yes, I prefer you to pay now. ; No, I prefer you not to pay now.
+هل تقبلون بطاقات الفيزا؟ ; Do you accept Visa cards? ; Yes, we accept Visa cards. ; No, we do not accept Visa cards.
+يمكنك دفع بواسطة فيزا ; What payment option is available? ; You can pay with Visa. ; You cannot pay with Visa.
+سأستخدم بطاقة الفيزا للحجز ; How will you make the reservation? ; I will use my Visa card to make the reservation. ; I will not use my Visa card to make the reservation.
+يمكنك الدفع بفيزا ; What payment method can you use? ; You can pay with Visa. ; You cannot pay with Visa.
+هل تريد دفع بفيزا أم نقدًا؟ ; Do you prefer to pay with Visa or in cash? ; Would you like to pay with Visa or in cash? ; Do you want to pay with Visa or in cash? ; Do you want to pay with Visa or in cash?
+لا يقبلون دفع بفيزا هنا ; Is Visa not accepted here? ; Visa is not accepted here. ; Visa is accepted here.
+الأمور ليست فا سهلة ; How easy are things? ; Things are not easy. ; Things are easy.
+أنا فا سعيد برؤيتك ; How do you feel about seeing me? ; I am very happy to see you. ; I am not happy to see you.
+فا، ماذا سنفعل اليوم؟ ; What's the plan for today? ; So, what are we going to do today? ; So, are we going to do anything today? ; So, are we going to do something today?
+هل أنت فاهم ما أقول؟ ; Do you understand what I'm saying? ; Yes, I understand what you're saying. ; No, I do not understand what you're saying.
+أنا متأكد أنهم فاهمين الوضع ; How confident are you that they understand the situation? ; I am confident that they understand the situation. ; I am not confident that they understand the situation.
+أنا لا أفهم الرياضيات جيدًا ; How well do you understand mathematics? ; I do not understand mathematics well. ; I understand mathematics well.
+العرب شعب كبير ; What can you say about the Arab people? ; The Arab people are a large population. ; The Arab people are not a large population.
+اللغة العربية هي لغتهم ; What language do they speak? ; Arabic is their language. ; Arabic is not their language.
+يجب أن نحترم ثقافة العرب ; What is important regarding Arab culture? ; We should respect Arab culture. ; We should not respect Arab culture.
+هذه عربيتي ; Whose car is this? ; This is my car. ; This is not my car.
+لدي عربيتي الخاصة ; Do you own a car? ; Yes, I have my own car. ; No, I do not have my own car.
+عربيتي تحتاج إلى صيانة ; What does your car need? ; My car needs maintenance. ; My car does not need maintenance.
+هذا الفيلم سيئ جدًا ; How is this movie? ; This movie is terrible. ; This movie is not terrible.
+لا تفعل شيئًا سيئًا ; What should you avoid doing? ; You should avoid doing anything wrong. ; You should not avoid doing anything wrong.
+سمعت عنه سمعة سيئة ; What have you heard about it? ; I've heard it has a bad reputation. ; I've not heard it has a bad reputation.
+هذه الكتب سيئة ; What can be said about these books? ; These books are bad. ; These books are not bad.
+أنا لست سيئة ; How would you describe yourself? ; I am not bad. ; I am bad.
+لا تتصرفي بطريقة سيئة ; How should you behave? ; You should not behave in a bad way. ; You should behave in a bad way.
+هذا الطعام لذيذ جداً ; How is the food? ; The food is very delicious. ; The food is not very delicious.
+الجو حار جداً اليوم ; What is the weather like today? ; The weather is extremely hot today. ; The weather is not extremely hot today.
+هذا الفيلم ممتع جداً ; What can you say about this movie? ; This movie is very enjoyable. ; This movie is not enjoyable.
+هذا الكتاب مفيد جدًاً ; How useful is this book? ; This book is extremely useful. ; This book is not extremely useful.
+العمل الشاق مجهد جدًاً ; How tiring is hard work? ; Hard work is very exhausting. ; Hard work is not very exhausting.
+الجو بارد جداً في الشتاء ; What is the temperature like in winter? ; The weather is extremely cold in winter. ; The weather is not extremely cold in winter.
+عفوا، هل يمكنك مساعدتي؟ ; Can you help me, please? ; Excuse me, can you assist me? ; Excuse me, can you not assist me?
+عفوا، أنا طالب جديد هنا ; What can you tell someone about yourself? ; Excuse me, I am a new student here. ; Excuse me, I am not a new student here.
+عفوا، هل يمكنك تكرار ذلك؟ ; Can you repeat that, please? ; Excuse me, can you not repeat that? ; Excuse me, can you not say that again?
+عفوًا على الإزعاج ; What do you say to apologize for causing inconvenience? ; Excuse me for the inconvenience. ; Excuse me for not causing any inconvenience.
+عفوًا، هل يمكنك إعطائي القائمة؟ ; Can you give me the menu, please? ; Excuse me, can you not give me the menu? ; Excuse me, can you not provide me with the menu?
+عفوًا، هل يمكنك أن تشرح لي كيفية الوصول إلى هناك؟ ; Can you explain how to get there, please? ; Excuse me, can you not explain how to get there? ; Excuse me, can you not provide directions to there?
+يجب أن نتعلم من خلال الخبرة ; How can we acquire knowledge? ; We should learn through experience. ; We should not learn through experience.
+هل تحب تعلم اللغات؟ ; Do you enjoy learning languages? ; Yes, I enjoy learning languages. ; No, I do not enjoy learning languages.
+تعلمت الكثير من هذا الكتاب ; What can you say about the book's impact on your learning? ; I learned a lot from this book. ; I did not learn much from this book.
+أنا بتعلم العزف على الجيتار ; What skill are you currently acquiring? ; I am learning to play the guitar. ; I am not learning to play the guitar.
+هل أنت مهتم بالبرمجة وبتعلم لغات البرمجة؟ ; Are you interested in programming and learning programming languages? ; Yes, I am interested in programming and learning programming languages. ; No, I am not interested in programming and learning programming languages.
+بتعلم اللغة الإنجليزية منذ فترة طويلة ; How long have you been learning English? ; I have been learning English for a long time. ; I have not been learning English for a long time.
+اللغة العربية جميلة ; How do you feel about the Arabic language? ; The Arabic language is beautiful. ; The Arabic language is not beautiful.
+أنا أتحدث اللغة العربية ; What language can you speak? ; I can speak Arabic. ; I cannot speak Arabic.
+اللغة العربية تحتاج إلى ممارسة ; What is essential for improving in Arabic? ; Arabic requires practice. ; Arabic does not require practice.
+من فضلك، كرر الجملة ; Can you please repeat the sentence? ; Please, repeat the sentence. ; Please, do not repeat the sentence.
+لم أسمع جيدًا، هل يمكنك أن تكرر؟ ; Did you hear that clearly? ; I did not hear that clearly, can you repeat it? ; I heard that clearly, do not repeat it.
+كرر الأمر مرة أخرى ; What should you do if someone asks for repetition? ; Repeat the command again. ; Do not repeat the command again.
+تكررها من فضلك ; Can you repeat it, please? ; Repeat it, please. ; Do not repeat it, please.
+هل يمكنك تكررها لي؟ ; Can you repeat it for me? ; Yes, I can repeat it for you. ; No, I cannot repeat it for you.
+يجب أن تتأكد من تكررها بعناية ; What is important when repeating something? ; You should make sure to repeat it carefully. ; You should not make sure to repeat it carefully.
+يجب أن تتعلم كيف تتكلم باللغة الإنجليزية ; What language should you learn to speak? ; You should learn how to speak English. ; You should not learn how to speak English.
+هل تتكلم الإنجليزية بطلاقة؟ ; Are you fluent in English? ; Yes, I speak English fluently. ; No, I do not speak English fluently.
+أنا أتعلم اللغة الإنجليزية ; What are you currently learning? ; I am learning the English language. ; I am not learning the English language.
+لم يكن سهلاً تعلم هذه اللغة ; How challenging was it to learn this language? ; Learning this language was not easy. ; Learning this language was easy.
+لا تدع الصعوبات توقفك ; What should you avoid letting hinder your progress? ; You should not let difficulties stop you. ; You should let difficulties stop you.
+هل أنت مستعد للامتحان؟ ; Are you prepared for the exam? ; Yes, I am ready for the exam. ; No, I am not ready for the exam.
+الامتحان كان صعبًا جدًا ; How was the exam? ; The exam was extremely difficult. ; The exam was not extremely difficult.
+التحضير الجيد يسهل الامتحان ; What helps with the exam? ; Good preparation makes the exam easier. ; Good preparation does not make the exam easier.
+هل تعتقد أنك ستنجح؟ ; Do you think you will pass? ; Yes, I believe I will pass. ; No, I do not believe I will pass.
+النجاح يتطلب الجهد ; What is necessary for success? ; Success requires effort. ; Success does not require effort.
+هل تعمل بجد؟ ; Do you work hard? ; Yes, I work hard. ; No, I do not work hard.
+أنا مجتهد في دراستي ; How would you describe your approach to studying? ; I am diligent in my studies. ; I am not diligent in my studies.
+التفاؤل يجعل الحياة أفضل ; How does optimism affect life? ; Optimism makes life better. ; Optimism does not make life better.
+أنا متفائل دائمًا ; What is your outlook on life? ; I am always optimistic. ; I am not always optimistic.
+توقع الأفضل دائمًا ; What should you always expect? ; You should always expect the best. ; You should not always expect the best.
+الحياة تحتاج إلى العمل الجاد ; What does life require? ; Life demands hard work. ; Life does not demand hard work.
+التحديات تجعلنا ننمو ; What is the result of facing challenges? ; Challenges make us grow. ; Challenges do not make us grow.
+هل تحب تحديات الحياة؟ ; Do you enjoy life's challenges? ; Yes, I enjoy life's challenges. ; No, I do not enjoy life's challenges.
+علينا أن نتقبل التحديات ; What should we do with challenges? ; We should accept the challenges. ; We should not accept the challenges.
+علينا أن نكون شجعانًا ; What should we strive to be? ; We should strive to be brave. ; We should not strive to be brave.
+الأمل يمكن أن ينقل الجبال ; What can hope achieve? ; Hope can move mountains. ; Hope cannot move mountains.
+هل تأمل في المستقبل؟ ; Do you envision the future? ; Yes, I envision the future. ; No, I do not envision the future.
+الأطفال يحملون آمال المستقبل ; What do children carry? ; Children carry the hopes of the future. ; Children do not carry the hopes of the future.
