@@ -5,7 +5,7 @@ import random
 django.setup()
 from sentenceBank.models import *
 
-ConcordanceExercise.objects.all().delete()
+# ConcordanceExercise.objects.all().delete()
 
 deleted_words = []
 
@@ -16,17 +16,16 @@ for concordance in Concordance.objects.all():
         deleted_word = concordance.arabic.split()[random.randint(0, len(concordance.arabic.split())-1)]
         cloze_deletion = concordance.arabic.replace(deleted_word, "؟؟؟")
         
-        exercise = ConcordanceExercise.objects.create(
+        exercise, created = ConcordanceExercise.objects.get_or_create(
                 concordance=concordance, 
-                prompt = 'Choose the word that best completes the sentence:',
-                correct_answer = deleted_word,
-                question = cloze_deletion
+                prompt='Choose the word that best completes the sentence:',
+                correct_answer=deleted_word,
+                question=cloze_deletion
         )
         deleted_words.append(deleted_word)
         
 
 # loop again, randomly pick from deleted_words as wrong answers
-for exercise in ConcordanceExercise.objects.all():
-    
+for exercise in ConcordanceExercise.objects.filter(wrong_answer__isnull=True):
     exercise.wrong_answer = random.choice(deleted_words)
     exercise.save()
