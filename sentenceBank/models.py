@@ -62,14 +62,15 @@ class Concordance(models.Model):
         return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
 
     
-class ConcordanceQuestion(models.Model):
+class ConcordanceExercise(models.Model):
     id = models.UUIDField(
          primary_key = True,
          default = uuid.uuid4,
          editable = False)
     concordance = models.ForeignKey(Concordance, on_delete=models.CASCADE)
     question = models.CharField(max_length=500)
+    prompt = models.CharField(max_length=500)
     correct_answer = models.CharField(max_length=500)
-    wrong_answer = models.CharField(max_length=500)
+    wrong_answer = models.CharField(max_length=500, blank=True, null=True)
     def __str__(self):
         return self.question
