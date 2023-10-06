@@ -2,6 +2,9 @@ from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from .models import *
 import json
+from Levenshtein import distance
+import random
+import re
 
 def index(request):
     exercise_list = []
@@ -38,6 +41,8 @@ def exercises_to_json(request):
             'wrong_answer': exercise.wrong_answer,
             'prompt': exercise.prompt,
             'type': 'cloze',
+            'sentence_en': exercise.concordance.english,
+            'sentence_ar': exercise.concordance.arabic,
         })
     for concordance in Concordance.objects.all():
         exercises.append({
@@ -48,7 +53,7 @@ def exercises_to_json(request):
             'prompt': 'Translate the following sentence:',
         })
         exercises.append({
-            'id': str(exercise.id),
+            'id': str(exercise.id) + '_reverse',
             'front': concordance.arabic,
             'back': concordance.english,
             'type': 'flashcard',
@@ -64,7 +69,7 @@ def exercises_to_json(request):
             'prompt': 'Translate the following word:',
         })
         exercises.append({
-            'id': str(exercise.id),
+            'id': str(exercise.id)  + '_reverse',
             'front': word.arabic,
             'back': word.english,
             'type': 'flashcard',
@@ -80,7 +85,7 @@ def exercises_to_json(request):
             'prompt': 'Translate the following sentence:',
         })
         exercises.append({
-            'id': str(exercise.id),
+            'id': str(exercise.id) + '_reverse',
             'front': sentence.arabic,
             'back': sentence.english,
             'type': 'flashcard',
@@ -116,3 +121,35 @@ def exercises_to_json(request):
             })
         
     return HttpResponse(json.dumps({'exercises': exercises, 'main_sentences': main_sentences}), content_type="application/json")
+
+def cloze_to_json(request):
+    # loop all main sentences, generate all possible cloze deletions and create exercises from that
+    exercises = []
+    deleted_words = []
+    for sentence in MainSentence.objects.all():
+        splitted_sentence = re.findall(r"[\w]+|[^\s\w]", sentence.arabic)
+        # only use words longer than one char
+        for possible_cloze in list(filter(lambda word: len(word) > 1, splitted_sentence)):
+            cloze_deletion = sentence.arabic.replace(possible_cloze, "؟؟؟")
+            exercise = {
+                "prompt": 'Choose the word that best completes the sentence:',
+                "correct_answer":possible_cloze,
+                "question":cloze_deletion,
+                "sentence_ar":sentence.arabic,
+                "sentence_en": sentence.english
+            }
+            exercises.append(exercise)
+        deleted_words.append(possible_cloze)
+
+    # add wrong_answer from the deleted_cloze array
+    for exercise in exercises:
+        deleted_words_without_correct_answer = deleted_words.copy()
+        deleted_words_without_correct_answer = list(filter(lambda word: word != exercise['correct_answer'], deleted_words_without_correct_answer))
+        # find the 5 closest words and pick one randomly
+        # first, sort list by distance
+        closest_words = sorted(deleted_words_without_correct_answer, key=lambda word: distance(word, exercise['correct_answer']))[:3]
+        random_close_word = random.choice(closest_words)
+        exercise['wrong_answer'] = random_close_word
+        print(f'picked {random_close_word} as wrong answer going with {exercise["correct_answer"]}')
+
+    return HttpResponse(json.dumps({'exercises': exercises}), content_type="application/json")
