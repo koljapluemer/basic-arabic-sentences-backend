@@ -106,12 +106,13 @@ def exercises_to_json(request):
                         sentence_children.append(str(exercise.id))
         print(sentence_children, '\n\n-----------------\n')       
         
+        if len(sentence_children) > 3:
         
-        main_sentences.append({
-            'id': str(main_sentence.id),
-            'english': main_sentence.english,
-            'arabic': main_sentence.arabic,
-            'children': sentence_children,
-        })
+            main_sentences.append({
+                'id': str(main_sentence.id),
+                'english': main_sentence.english,
+                'arabic': main_sentence.arabic,
+                'children': sentence_children,
+            })
         
     return HttpResponse(json.dumps({'exercises': exercises, 'main_sentences': main_sentences}), content_type="application/json")
