@@ -153,3 +153,7 @@ def cloze_to_json(request):
         print(f'picked {random_close_word} as wrong answer going with {exercise["correct_answer"]}')
 
     return HttpResponse(json.dumps({'exercises': exercises}), content_type="application/json")
+
+
+def just_sentences(request):
+    return render(request, 'just_sentences.html', {'sentences': MainSentence.objects.all()})
