@@ -11,7 +11,10 @@ class Topic(models.Model):
     def __str__(self):
         return self.name
     
-    
+DIALECTS = (
+    ('MSA', 'MSA'),
+    ('Egyptian', 'Egyptian'),
+)    
     
 class MainSentence(models.Model):
     id = models.UUIDField(
@@ -21,6 +24,8 @@ class MainSentence(models.Model):
     topic = models.ForeignKey(Topic, on_delete=models.CASCADE)
     english = models.CharField(max_length=500)
     arabic = models.CharField(max_length=500, blank=True, null=True)
+    dialect = models.CharField(max_length=50, choices=DIALECTS, default='MSA')
+
     def __str__(self):
         return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
 
