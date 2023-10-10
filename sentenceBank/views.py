@@ -136,7 +136,8 @@ def cloze_to_json(request):
                 "correct_answer":possible_cloze,
                 "question":cloze_deletion,
                 "sentence_ar":sentence.arabic,
-                "sentence_en": sentence.english
+                "sentence_en": sentence.english,
+                "dialect": sentence.dialect,
             }
             exercises.append(exercise)
         deleted_words.append(possible_cloze)
