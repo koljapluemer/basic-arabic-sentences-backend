@@ -127,6 +127,8 @@ def cloze_to_json(request):
     exercises = []
     deleted_words = []
     for sentence in MainSentence.objects.all():
+        # remove all Western characters
+        sentence.arabic = re.sub(r'[a-zA-Z]', '', sentence.arabic)
         splitted_sentence = re.findall(r"[\w]+|[^\s\w]", sentence.arabic)
         # only use words longer than one char
         for possible_cloze in list(filter(lambda word: len(word) > 1, splitted_sentence)):
