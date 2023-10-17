@@ -62,3 +62,7 @@ And the engine is confused everytime the original concordance is a question, so 
 Also, the engine started making up sentences after a point, but I guess base logic catches that.
 
 16. I tried generating cloze deletion w/ chatGPT but it's hopeless
+
+## New approach
+
+I scrapped all of the above. Just `sentence_mining1.py` and the `cloze_export` view are now doing anything.

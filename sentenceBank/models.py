@@ -21,10 +21,12 @@ class MainSentence(models.Model):
          primary_key = True,
          default = uuid.uuid4,
          editable = False)
-    topic = models.ForeignKey(Topic, on_delete=models.CASCADE)
+    topic = models.ForeignKey(Topic, on_delete=models.CASCADE, blank=True, null=True)
     english = models.CharField(max_length=500)
     arabic = models.CharField(max_length=500, blank=True, null=True)
     dialect = models.CharField(max_length=50, choices=DIALECTS, default='MSA')
+    transliteration = models.CharField(max_length=500, blank=True, null=True)
+    source = models.CharField(max_length=100, blank=True, null=True)
 
     def __str__(self):
         return f"{self.english} - {self.arabic}" if self.english and self.arabic else self.english or self.arabic or ""
