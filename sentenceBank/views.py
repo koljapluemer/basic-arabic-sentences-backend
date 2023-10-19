@@ -127,12 +127,13 @@ def cloze_to_json(request):
     exercises = []
     deleted_words = []
     for sentence in MainSentence.objects.all():
-        # remove all Western characters
-        sentence.arabic = re.sub(r'[a-zA-Z]', '', sentence.arabic)
-        splitted_sentence = re.findall(r"[\w]+|[^\s\w]", sentence.arabic)
+        # remove all Western characters, as well as (“”؟
+        arabic_sentence_clean = re.sub(r'[a-zA-Z“”؟]', '', sentence.arabic)
+        splitted_sentence = re.findall(r"[\w]+|[^\s\w]", arabic_sentence_clean)
         # only use words longer than one char
         for possible_cloze in list(filter(lambda word: len(word) > 1, splitted_sentence)):
-            cloze_deletion = sentence.arabic.replace(possible_cloze, "؟؟؟")
+            # replace first occurence of possible_cloze with ؟؟؟
+            cloze_deletion =  arabic_sentence_clean.replace(possible_cloze, '؟؟؟', 1)
             exercise = {
                 "prompt": 'Choose the word that best completes the sentence:',
                 "correct_answer":possible_cloze,
@@ -140,6 +141,7 @@ def cloze_to_json(request):
                 "sentence_ar":sentence.arabic,
                 "sentence_en": sentence.english,
                 "dialect": sentence.dialect,
+                "transliteration": sentence.transliteration,
             }
             exercises.append(exercise)
         deleted_words.append(possible_cloze)
@@ -153,7 +155,6 @@ def cloze_to_json(request):
         closest_words = sorted(deleted_words_without_correct_answer, key=lambda word: distance(word, exercise['correct_answer']))[:3]
         random_close_word = random.choice(closest_words)
         exercise['wrong_answer'] = random_close_word
-        print(f'picked {random_close_word} as wrong answer going with {exercise["correct_answer"]}')
 
     return HttpResponse(json.dumps({'exercises': exercises}), content_type="application/json")
 
